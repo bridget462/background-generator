@@ -15,3 +15,8 @@ h1 {
   font: 600 3.5em "Kumbh Sans", sans-serif;
   color: rgba(0, 0, 0, 0.5);
 }
+
+h3 {
+  text-transform: none;
+  letter-spacing: normal;
+}
